@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "illuminate/support": "^5.3",
-        "gustavorglima/libphp-multichain": "^1.0"
+        "gustavorglima/libphp-multichain": "^1.1"
     },
 	"autoload": {
 		"psr-4": {
